@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\project_poster_combsort\project_poster_combsort\bin\Debug\project_poster_combsort.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\project_poster_combsort\project_poster_combsort\bin\Debug\project_poster_combsort.exe
+c:\users\dell\documents\visual studio 2015\Projects\project_poster_combsort\project_poster_combsort\bin\Debug\project_poster_combsort.pdb
+c:\users\dell\documents\visual studio 2015\Projects\project_poster_combsort\project_poster_combsort\obj\Debug\project_poster_combsort.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\project_poster_combsort\project_poster_combsort\obj\Debug\project_poster_combsort.exe
+c:\users\dell\documents\visual studio 2015\Projects\project_poster_combsort\project_poster_combsort\obj\Debug\project_poster_combsort.pdb
